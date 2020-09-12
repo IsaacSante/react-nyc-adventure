@@ -15,7 +15,7 @@ function App() {
     <Router>
       <Navbar />
        <Switch>
-         <Route path = '/' exact component={Home}/>
+         <Route path = '/react-nyc-adventure' exact component={Home}/>
          <Route path = '/brooklyn' component={Brooklyn}/>
          <Route path = '/queens' component={Queens}/>
          <Route path = '/middle' component={Green}/>
