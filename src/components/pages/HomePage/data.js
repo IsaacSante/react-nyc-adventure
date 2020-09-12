@@ -6,7 +6,7 @@ export const homeObjOne = {
     headline: 'This one goes to Brooklyn',
     description: 'See the beautiful views and industrial sounds of construction companies next to million dollar homes.',
     buttonLabel: 'Take the 4 train',
-    img: 'images/bk.svg',
+    img: '/images/bk.svg',
     alt: 'Brooklyn',
     link:'/brooklyn'
 }
