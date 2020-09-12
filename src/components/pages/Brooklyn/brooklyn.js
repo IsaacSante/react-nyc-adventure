@@ -5,6 +5,7 @@ function Brooklyn() {
     return (
         <>
         <HeroSection {...homeObjOne}/>
+        <HeroSection {...homeObjTwo}/>
         </>
     )
 }

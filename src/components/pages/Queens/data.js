@@ -10,3 +10,15 @@ export const homeObjOne = {
     alt: 'Train',
     link:'/middle'
 }
+export const homeObjTwo = {
+    lightBg: true,
+    lightText: false,
+    lightTextDesc: false,
+    topLine: 'Ok you had your fun',
+    headline: 'Now pay up this tuition aint cheap',
+    description: 'Be a good fellow',
+    buttonLabel: 'Buy now',
+    img: 'images/taco.svg',
+    alt: 'Brooklyn',
+    link:'/price'
+}
