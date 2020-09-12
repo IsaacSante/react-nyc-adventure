@@ -1,10 +1,11 @@
 import React from 'react'
 import HeroSection from '../../HeroSection'
-import {homeObjOne } from './data'
+import {homeObjOne, homeObjTwo } from './data'
 function Queens() {
     return (
         <>
         <HeroSection {...homeObjOne}/>
+        <HeroSection {...homeObjTwo}/>
         </>
     )
 }
