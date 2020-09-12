@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-nyc-adventure/static/css/main.94a7f3bc.chunk.css",
-    "main.js": "/react-nyc-adventure/static/js/main.942c416c.chunk.js",
-    "main.js.map": "/react-nyc-adventure/static/js/main.942c416c.chunk.js.map",
+    "main.js": "/react-nyc-adventure/static/js/main.8214bc4d.chunk.js",
+    "main.js.map": "/react-nyc-adventure/static/js/main.8214bc4d.chunk.js.map",
     "runtime-main.js": "/react-nyc-adventure/static/js/runtime-main.f2881c51.js",
     "runtime-main.js.map": "/react-nyc-adventure/static/js/runtime-main.f2881c51.js.map",
     "static/js/2.001d2a2d.chunk.js": "/react-nyc-adventure/static/js/2.001d2a2d.chunk.js",
     "static/js/2.001d2a2d.chunk.js.map": "/react-nyc-adventure/static/js/2.001d2a2d.chunk.js.map",
     "index.html": "/react-nyc-adventure/index.html",
-    "precache-manifest.89fc72646ed87f3b5b943734f737f5d0.js": "/react-nyc-adventure/precache-manifest.89fc72646ed87f3b5b943734f737f5d0.js",
+    "precache-manifest.0c20424fe013aa35a183d379976591e0.js": "/react-nyc-adventure/precache-manifest.0c20424fe013aa35a183d379976591e0.js",
     "service-worker.js": "/react-nyc-adventure/service-worker.js",
     "static/css/main.94a7f3bc.chunk.css.map": "/react-nyc-adventure/static/css/main.94a7f3bc.chunk.css.map",
     "static/js/2.001d2a2d.chunk.js.LICENSE.txt": "/react-nyc-adventure/static/js/2.001d2a2d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f2881c51.js",
     "static/js/2.001d2a2d.chunk.js",
     "static/css/main.94a7f3bc.chunk.css",
-    "static/js/main.942c416c.chunk.js"
+    "static/js/main.8214bc4d.chunk.js"
   ]
 }
