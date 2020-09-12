@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5aacd9b3658d7472fe9e1f74a41c49ec",
+    "revision": "7da5ec0e1a6f81845cfd745c400051e5",
     "url": "/react-nyc-adventure/index.html"
   },
   {
-    "revision": "af75798d4af6d167fe57",
+    "revision": "572d5f7e786948fb633d",
     "url": "/react-nyc-adventure/static/css/main.94a7f3bc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-nyc-adventure/static/js/2.001d2a2d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "af75798d4af6d167fe57",
-    "url": "/react-nyc-adventure/static/js/main.4a9ff399.chunk.js"
+    "revision": "572d5f7e786948fb633d",
+    "url": "/react-nyc-adventure/static/js/main.3ed23458.chunk.js"
   },
   {
     "revision": "5e09df2e50844a6eb371",
