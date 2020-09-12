@@ -3,7 +3,7 @@ HI So I made this site in react.
 The idea is this is a fictional traveling company asking you to go on an adventure through NYC.
 
 This is the workflow.
-![alt text](diagram.png)
+![alt text](src/diagram.png)
 
 
 Bascically I made a section compontent and used it all throughout.
