@@ -1,3 +1,8 @@
+## Notes for OR
+HI So I made this site in react. 
+Bascically I made a section compontent and used it all throughout.
+Each page has its own data and changes with the component. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

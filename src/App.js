@@ -21,7 +21,6 @@ function App() {
          <Route path = '/middle' component={Green}/>
          <Route path = '/price' component={Price}/>
          <Route path = '/about' component={About}/>
-
        </Switch>
        <Footer></Footer>
     </Router>
