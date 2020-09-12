@@ -18,7 +18,7 @@ export const homeObjTwo = {
     headline: 'Now pay up this tuition aint cheap',
     description: 'Be a good fellow',
     buttonLabel: 'Buy now',
-    img: 'images/taco.svg',
+    img: '/images/taco.svg',
     alt: 'Brooklyn',
     link:'/price'
 }

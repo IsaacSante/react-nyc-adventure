@@ -19,7 +19,7 @@ export const homeObjTwo = {
     headline: 'Because its super duper cool dude',
     description: 'Im really running out of things to say',
     buttonLabel: 'Go there now !',
-    img: 'images/taco.svg',
+    img: '/images/taco.svg',
     alt: 'Brooklyn',
     link:'/about'
 }
