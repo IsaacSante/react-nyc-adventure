@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-nyc-adventure/precache-manifest.05b5d32fcca0defd7a2f740d77f3ee02.js"
+  "/react-nyc-adventure/precache-manifest.5ff2234a3fdb10ff3dec65e86ce12f85.js"
 );
 
 self.addEventListener('message', (event) => {
