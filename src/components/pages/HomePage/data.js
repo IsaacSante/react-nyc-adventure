@@ -19,7 +19,7 @@ export const homeObjTwo = {
     headline: 'This one goes to Queens',
     description: 'See the beautiful...um..the food is good at least.',
     buttonLabel: 'Take the R train',
-    img: 'images/taco.svg',
+    img: '/images/taco.svg',
     alt: 'Brooklyn',
     link: '/queens'
 }
